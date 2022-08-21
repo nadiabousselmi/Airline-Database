@@ -1570,7 +1570,7 @@ public class Database implements ActionListener {
             }
             g.setFont(menuTitle);
             g.setColor(Color.black);
-            g.drawString("Lucyfer's Airlines", 115, 225); // displays title
+            g.drawString("Fly-Away Airlines", 115, 225); // displays title
             g.setFont(new Font("calibri", 0, 18));
             g.setColor(Color.black);
             g.drawString("-Database Software-", 240, 260);
@@ -1986,7 +1986,7 @@ public class Database implements ActionListener {
 
             output.println("-------------------------------------------------------------------");
             output.println(" ");
-            output.println("Lucyfer's Airlines");
+            output.println("Fly-Away Airlines");
             output.close();
         } catch (Exception e) {
             System.out.println("export error");
