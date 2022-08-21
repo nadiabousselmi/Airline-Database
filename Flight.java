@@ -1,5 +1,3 @@
-
-package idk;
 /**
  * @author Nadia Bousselmi
  *         Start Date: May 20 2022
