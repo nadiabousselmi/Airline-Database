@@ -1,4 +1,3 @@
-package idk;
 /**
  * @author Jing Wang, Nadia Bousselmi
  *         Start Date: May 17 2022 at 14:04
