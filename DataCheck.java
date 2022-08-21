@@ -1,13 +1,7 @@
-package idk;
 //Name: William Cheng, Jing Wang, Nadia Bousselmi
 //Date: May 17, 2022
 //Description: A class which will check the validity of the inputted data.
 
-/**
-* @author William Cheng, Jing Wang
-* Class which will check the validity of the inputted data.
-* Start: May 17 at 1403.
-*/
 public class DataCheck
 {
 
